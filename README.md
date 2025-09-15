@@ -4,11 +4,12 @@ Sobre mim
 Sou um desenvolvedor BackEnd e Mobile apaixonado por tecnologia, com vasta experiência no ecossistema Microsoft. Meu foco está em criar soluções robustas e eficientes, utilizando as melhores práticas e tecnologias de ponta.
 Tecnologias que eu uso
 
-    Linguagens: C#, .NET
-    Desenvolvimento Mobile: .NET MAUI
-    Desenvolvimento Desktop: Windows Forms
-    Desenvolvimento Web: ASP.NET para Web APIs
+    Linguagens: C#, Python, Java, JavaScript
+    Frameworks & Plataformas: .NET, .NET MAUI, ASP.NET Web API
     Bancos de Dados: PostgreSQL, MySQL, SQLite
+    Modelagem & Arquitetura: UML, Arquitetura Limpa, MVVM
+    Ferramentas: Git, Docker, VS Code, Visual Studio
+    Especialidade: Desenvolvimento Mobile com .NET MAUI
 
 O que você pode esperar do meu trabalho
 
